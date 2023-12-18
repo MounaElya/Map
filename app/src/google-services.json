@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974243791837",
+    "project_id": "fir-map-e4b64",
+    "storage_bucket": "fir-map-e4b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974243791837:android:9e3951b311fd96f75e6c34",
+        "android_client_info": {
+          "package_name": "com.ndroid.mapensa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiGBr2pnWyAAx47pgsjSP7Wy13XOV01ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
